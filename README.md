@@ -1,6 +1,7 @@
 # Node.js
 
 Node.js is an open-source, cross-platform JavaScript runtime environment.
+Node.js is not a programming language, library or framework //Edited by Neha Kumari
 
 For information on using Node.js, see the [Node.js website][].
 
